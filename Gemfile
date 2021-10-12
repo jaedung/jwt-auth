@@ -9,7 +9,7 @@ ruby "2.6.3"
 
 gem "rails", "6.0.1"
 gem "sqlite3"
-gem "puma", "~> 3.7"
+gem "puma", "~> 4.3"
 gem "bcrypt", "~> 3.1.7"
 gem "rack-cors"
 gem "jwt"
